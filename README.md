@@ -1,26 +1,9 @@
-This repository is a place to collect info on using Facebook's hidden search by constructing special address strings (URLs).
+## An open-source collection of information on Facebook's Graph Search - what it is, how to use it, what to keep in mind. ##
 
-To get into the subject, please read the following chapters: 
+This Github project consists of 
 
-* **What is Facebook Graph Search, anyway?**
-* **The basic grammar of search on Facebook**
-* **Things you can do with it - some basic examples**
+* **[the wiki](/untergeekDE/FacebookGraphSearch/wiki/Home) - info pages about Graph Search and the commands I know so far**
+* a folder containing challenges, i.e. little search tasks ordered by difficulty (tbd)
+* a folder containing unsolved questions concerning graph search (tbd)
 
-## Reference ##
-
-This is supposed to work as a lookup table for URL-based graph searches.
-
-* **Looking for people**
-* **Looking for places**
-* **Looking for dates**
-* **Looking for groups**
-* **Looking for events**
-
-### Research ###
-
-* Unsolved questions
-
-## Training Ground ##
-
-* List of unsolved challenges
-* List of solved challenges
+This is an expanding cache of information. As always with Github, you can download everything, modify it, and push your changes to the repository so I can merge them. Everything is stored in Markdown Language files (file extension .md), text files with simple formatting. You can open them with any text editor like Windows' Notepad, even if it cannot display the formatting. [If you have no idea what that means: don't panic, it's extremely simple. A Markdown Language cheat sheet can be found here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).  
