@@ -2,7 +2,7 @@
 
 This Github project consists of 
 
-* **[the wiki](/untergeekDE/FacebookGraphSearch/wiki/Home) - info pages about Graph Search and the commands I know so far**
+* **[the wiki](https://github.com/untergeekDE/FacebookGraphSearch/wiki/Home) - info pages about Graph Search and the commands I know so far**
 * a folder containing challenges, i.e. little search tasks ordered by difficulty (tbd)
 * a folder containing unsolved questions concerning graph search (tbd)
 
