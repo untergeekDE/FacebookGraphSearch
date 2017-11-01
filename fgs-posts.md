@@ -14,7 +14,7 @@ See [Looking for people](fgs-people.md).
 
 ## Selecting by keyword ##
 
-In connection with the string selection method - [See the section on selecting objects by name.](/wiki/The-basic-Graph-Search-grammar#selecting-by-name)
+In connection with the string selection method - [See the section on selecting objects by name.](../../wiki/The-basic-Graph-Search-grammar#selecting-by-name)
 
 These should be identical but they are not: 
 
