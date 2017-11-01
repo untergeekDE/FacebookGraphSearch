@@ -24,7 +24,7 @@ These date descriptors are allowed:
 
 ## Selecting the right type of data ##
 
-Data returned has no type yet; to process it further, you have to tell Unicorn what it has to select from these dates. If, for example, you try to select an event by date, you have to declare it as events - *see: [Looking for events](Looking-for-events)* and *[Looking for posts](Looking-for-posts)*
+Data returned has no type yet; to process it further, you have to tell Unicorn what it has to select from these dates. If, for example, you try to select an event by date, you have to declare it as events - *see: [Looking for events](fgs-events.md)* and *[Looking for posts](fgs-posts.md)*
 
 * /search/this-week/date/events 
 * /search/this-week/date/stories
