@@ -8,7 +8,8 @@
 
 ## Time of an event ##
 
-Have Unicorn produce a list of dates - see: [Looking for dates](Looking-for-dates) -, and filter them for events:
+Have Unicorn produce a list of dates - see: [Looking for dates](fgs
+-dates.md) -, and filter them for events:
 
 /search/*DATE*/date/event
 
