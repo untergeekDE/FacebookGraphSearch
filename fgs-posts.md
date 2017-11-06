@@ -8,6 +8,16 @@ See [Looking for people](fgs-people.md).
 * /stories-commented
 * /stories-tagged
 
+## Show posts by a page ##
+
+* /*PAGE-ID*/stories-by/
+
+### Looking for a keyword in posts from one page: ###
+
+* /*PAGE-ID*/stories-by/str/keywords_posts/intersect [sample](https://www.facebook.com/search/122816404437089/stories-by/str/bouffier/keywords_posts/intersect)
+
+Don't try this with double str search, e.g. searching for keywords in /str/*KEYWORD*/pages-named/ - only the last str query will work.
+
 ## Show posts connected to a place or a list of places ##
 
 * /stories-in
