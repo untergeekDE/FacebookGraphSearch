@@ -61,7 +61,8 @@ String variant:
 
 See: [Looking for places](fgs-places.md)
 
-## Use an ID, not a string search ##
+## Searching for strings in user names ##
 
-The search for a name may produce errors - whenever you have exact information on the target, use an ID rather than a string query. 
+**It is possibly a good idea to use an ID, not a string search.** The search for a name may produce errors - whenever you have exact information on the target, use an ID rather than a string query. But if you absolutely have to, the format is
 
+* /str/*STRING*/users-named/
