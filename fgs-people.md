@@ -22,7 +22,7 @@ Expects a list of people, e.g. by searching for names first
 * /widowed/users
 * /in-open-relationship/users
 * /its-complicated/users
-*	/seperated/users
+*	/separated/users
 *	/divorced/users
 * /in-civil-union/users
 *	/dating/users
