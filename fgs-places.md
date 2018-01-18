@@ -20,7 +20,12 @@ It is not easy to find Munich on Facebook. Try these:
 * [Looking for the str "Munich" in a "places-named" search does not work well](https://www.facebook.com/search/str/munich/places-named/). 
 * Looking for the keyword works - but for some reason, [you have to use the selector "keyword_places"](https://www.facebook.com/search/str/munich/keywords_places/). 
 
-# Verbs #
+## Finding things from places ##
 
 * users-birth-place
 * residents (/past or /present)
+
+### Returning content: photos, videos ###
+
+* /*PLACE-ID*/photos-in/
+* /*PLACE-ID*/videos-in/
