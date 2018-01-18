@@ -1,4 +1,6 @@
-## 
+# Looking for people #
+
+Queries that output people - lists of users
 
 ### Selecting for gender  ###
 
@@ -28,11 +30,12 @@ Expects a list of people, e.g. by searching for names first
 *	/dating/users
 * /in-any-relationship/users
 
-And, of course:
+### Selecting for relation to another ###
 
 * /*NAME-ID*/friends/
 * /*NAME-ID*/friends/friends/
 * /*NAME-ID*/spouses/
+* /*NAME-ID*/non-friends/ works too!
 
 up to six levels deep. 
 
