@@ -18,10 +18,6 @@ See [Looking for people](fgs-people.md).
 
 Don't try this with double str search, e.g. searching for keywords in /str/*KEYWORD*/pages-named/ - only the last str query will work.
 
-## Show posts connected to a place or a list of places ##
-
-* /stories-in
-
 ## Selecting by keyword ##
 
 In connection with the string selection method - [See the section on selecting objects by name.](../../wiki/The-basic-Graph-Search-grammar#selecting-by-name)
