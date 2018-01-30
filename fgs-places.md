@@ -33,3 +33,9 @@ You'd normally need a PLACE-ID as an input - see above. Try /str/.../keywords_pl
 
 * /*PLACE-ID*/photos-in/
 * /*PLACE-ID*/videos-in/
+
+### Returning posts ###
+
+One possibility is to look for stories (posts) tagged with the location: 
+
+* /*PLACE-ID*/stories-tagged/ [(Example)](https://www.facebook.com/search/112062572151542/stories-tagged/)
