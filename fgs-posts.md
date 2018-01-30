@@ -8,6 +8,8 @@ See [Looking for people](fgs-people.md).
 * /stories-commented
 * /stories-tagged
 
+The /stories-tagged term seems to find places as well: https://www.facebook.com/search/109064329128321/stories-tagged/ [See: Looking for places](fgs-places.md).
+
 ## Show posts by a page ##
 
 * /*PAGE-ID*/stories-by/
