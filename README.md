@@ -1,3 +1,9 @@
+# Defunct as of June 2019 - due to Facebook's technological changes
+
+In June 2019, Facebook killed Graph Search as it was. So this is just kept around because I can't be bothered to erase it. 
+
+The only (sort of) replacement for operating parts of the Graph Search engine ("Unicorn") is [Sowdust's fbsearch code](https://github.com/sowdust/sowdust.github.io). 
+
 ## An open-source collection of information on Facebook's Graph Search - what it is, how to use it, what to keep in mind. ##
 
 This Github project consists of 
